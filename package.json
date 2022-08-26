@@ -1,0 +1,22 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohhossain/fake-server.git"
+  },
+  "author": "Mohammad Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohhossain/fake-server/issues"
+  },
+  "homepage": "https://github.com/mohhossain/fake-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
